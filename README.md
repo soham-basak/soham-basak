@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **NextJS and Prisma**
 
-- 🤝 I’m looking for help with [Prompt-Forge](https://github.com/soham-basak/Prompt-Forge.git)
+- 🤝 I’m looking for help for [Prompt-Forge](https://github.com/soham-basak/Prompt-Forge.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/soham-basak?tab=repositories](https://github.com/soham-basak?tab=repositories)
 
