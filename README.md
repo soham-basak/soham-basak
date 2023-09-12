@@ -2,6 +2,8 @@
 <h3 align="center">Web Developer in Progress | Exploring Machine Learning</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+
+
 - 🔭 I’m currently working on [FlavorFusion](https://github.com/soham-basak/FlavorFusion.git)
 
 - 🌱 I’m currently learning **NextJS and Prisma**
